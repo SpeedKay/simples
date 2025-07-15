@@ -1,0 +1,30 @@
+1;Poção de Cura;Poção;20.0;10
+2;Elixir de Mana;Poção;25.0;5
+3;Espada de Ferro;Arma;150.0;2
+4;Anel de Invisibilidade;Artefato;300.0;1
+5;Poção de Cura Média;Poção;20.0;10
+6;Poção de estamina;Poção;10.0;5
+7;Anel de Fogo;Artefato;300.0;1
+8;Espada de Madeira;Arma;5.0;5
+9;Poção de Visão Noturna;Poção;35.0;4
+10;Espada Longa de Prata;Arma;200.0;1
+11;Poção de Resistência ao Fogo;Poção;40.0;6
+12;Cajado de Chamas;Arma;450.0;1
+13;Poção de Velocidade;Poção;30.0;7
+14;Anel de Proteção;Artefato;150.0;2
+15;Arco Élfico;Arma;120.0;3
+16;Poção de Respiração Aquática;Poção;45.0;4
+17;Adaga de Sombra;Arma;95.0;2
+18;Poção de Fortalecimento;Poção;28.0;6
+19;Colar da Sabedoria;Artefato;275.0;1
+20;Poção de Invisibilidade;Poção;60.0;2
+21;Martelo de Guerra Anão;Arma;180.0;2
+22;Poção de Regeneração;Poção;55.0;3
+23;Amuleto da Sorte;Artefato;120.0;4
+24;Poção Antiveneno;Poção;15.0;8
+25;Machado de Batalha Orc;Arma;160.0;1
+26;Poção de Clarividência;Poção;65.0;1
+28;Espada do Caos;Arma;250.0;1
+29;Poção de Energia Arcana;Poção;38.0;5
+30;Bracelete de Defesa;Artefato;220.0;2
+27;Anel de Teleporte;Artefato;400.0;1
